@@ -4,8 +4,8 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
-Personal Computer 
-Cisco Packet Tracer
+1. Personal Computer
+2. Cisco Packet Tracer
 
 # IP ASSIGNMENT
 <img width="515" height="363" alt="image" src="https://github.com/user-attachments/assets/0ac029a0-4789-44b2-a57a-49f092608252" />
