@@ -4,7 +4,7 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
-Personal Computer
+Personal Computer 
 Cisco Packet Tracer
 
 # IP ASSIGNMENT
